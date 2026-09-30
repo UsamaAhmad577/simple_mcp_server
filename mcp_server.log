@@ -1,0 +1,7 @@
+2026-09-30 17:57:46,669 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2026-09-30 17:57:46,674 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2026-09-30 17:57:46,675 - mcp.server.lowlevel.server - INFO - Processing request of type ListPromptsRequest
+2026-09-30 17:57:46,678 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2026-09-30 17:57:56,303 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2026-09-30 17:57:56,303 - server_module - INFO - adding 7 and 89
+2026-09-30 17:57:56,304 - server_module - INFO - Result is 96
